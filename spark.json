@@ -1,0 +1,7 @@
+{
+  "name": "adafruitDHT",
+  "author": "adafruit <joe@spark.io>",
+  "license": "adafruit",
+  "version": "0.0.01",
+  "description": "Adafruit DHT"
+}
